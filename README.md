@@ -15,12 +15,13 @@ Take into account that you have only the operations ReadBlock() and WriteBlock()
 
 ### Procedure
 1. Make teams of 4
-1. Accept the assignment (group assignemnt) and give your group a name having the last name of all team mates.
+1. Accept the assignment (group assignment) and give your group a name having the last name of all team mates.
+1. Clone the repository on your local machine.
 1. Create a directory named <your_last_name>.md (e.g. `bauer`).
 1. Create a markdown file named <your_last_name>.md (e.g., `bauer.md`) and store it in your directory.
 1. Jot down your ideas quickly (30 minutes). You may also do drawings and store them in your directory.
 1. Commit your files, pull, push.
-1. Open the files of your team mates and add remarks. Call a mate if yoir don't understand things (max. 5 minutes for each).
+1. Open the files of your team mates and add remarks to an own file called with your own name (e.g., `remarks_bauer.md`). Call a mate if you don't understand things (max. 5 minutes for each).
 1. Pull push.
 1. Join your team mates in a voice channel and discuss your ideas. Agree on a common solution and write it down in a new file (`final_solution/final_solution.md`).
 1. Push
